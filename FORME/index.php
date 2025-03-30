@@ -14,6 +14,9 @@
             <select name="vrsta_racunice">
                 <option>Sabiranje</option>
                 <option>Oduzimanje</option>
+                <option>Mnozenje</option>
+                <option>Deljenje</option>
+                <option>Koren</option>
             </select>
 
         <button>Izracunaj</button>
