@@ -8,7 +8,7 @@
 <body> 
     <form method="get" action="app.php">
         <input type="text" name="broj_1" placeholder="Unesite iznos">
-<br>
+        <br>
         <select name="odabiranje">
             <option value="Hrana">Hrana</option>
             <br>
